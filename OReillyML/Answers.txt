@@ -1,0 +1,19 @@
+Chapter 1 Exercises.
+1. Machine learning is a technique to instruct a machine through code, 
+on how to perform an activity.
+2. Data Augmentation, Values Predictions, AI, and repetition tasks.
+3. A labeled traning set is a dataset whom has labels with right answers of what is expected.
+4. Classification and Regression.
+5. Visualization, Diemsionality Reduction, Anomaly Detection, and Clustering.
+6. Reinforcement learning
+7. Clustering.
+8. It depends on the traning dataset
+9. A system that continues to learn with new inputs.
+10. Out-of-core learning splits the data into multiple batches, and it uses them to 
+train the model trough online learning.
+11. An instance-based learning system.
+12. A model has one or more model parameters that determine what it will 
+predict given a new instance (e.g., the slope of a linear model). A learning algorithm 
+tries to find optimal values for these parameters such that the model generalizes well to new instances. A hyperparameter is a parameter 
+of the learning algorithm itself, not of the model (e.g., the amount of regularization to apply).
+13. Data that does not have new features, 
